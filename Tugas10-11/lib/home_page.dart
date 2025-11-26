@@ -19,8 +19,7 @@ class HomePage extends StatelessWidget {
             ),
           ),
           SizedBox(height: 20),
-
-          // MENU 1
+          
           ListTile(
             leading: Icon(Icons.person),
             title: Text('Profil'),
